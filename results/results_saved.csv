@@ -1,0 +1,7 @@
+ ,background,tumour
+background,432929852,501139
+tumour,847223,9390014
+{'MIoU': '93.57'}
+{'Dice': '93.3'}
+{'Precision': '94.93'}
+{'Recall': '91.72'}
